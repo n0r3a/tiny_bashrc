@@ -2,7 +2,6 @@
 #
 # Minimal bashrc by norea
 #
-# User specific aliases and functions
 
 if [ -f ~/.bash_aliases ]; then
 	    . ~/.bash_aliases
